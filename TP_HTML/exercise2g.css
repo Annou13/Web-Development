@@ -1,0 +1,37 @@
+
+#d1 {
+    border: 1px solid black;
+    padding: 11px;
+}
+#d2 img {
+    float: left;
+    margin-right: 14px;
+}
+#d2 p {
+    overflow: hidden;
+}
+#d3 {
+    background-color: #6c7b8b;
+    padding: 10px;
+}
+
+.div-3 {
+    position: fixed;
+    z-index: 9999;
+    top: 114px;
+    left: 114px;
+    width: 415px;
+    height: 415px;
+}
+
+.div-3:active {
+    display: none;
+  }
+  
+.div-3:focus {
+    display: block;
+  }
+
+.div-3:hover {
+    color: crimson;
+  }

@@ -1,0 +1,36 @@
+<html>
+  <head>
+    
+    <title>This is a test page</title>
+    
+  </head>
+  <body>
+    <h1>My personal page from <strong> Telecom Paris </strong></h1>
+    <nav>
+      <ul>
+        <li><a target="d1"></a> debut </li>
+        <li><a target="d2"></a> milieu</li>
+        <li><a target="d3"></a>fin</li>
+        <li><a href="https://www.google.com/">Google</a></li>
+      </ul>
+    </nav>
+    <div id="d1" style ="border: 1px solid black; padding: 11px;">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur consectetur lobortis lorem, ac accumsan ante consectetur ege</p>
+      <p>Donec faucibus varius velit, ac tempor ante fringilla vitae. Nam et ultricies nunc. Integer sodales cursus rutrum.</p>
+    </div>
+    <div id="d2" >
+      <img style="float: left; margin-right: 14px;"src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cumulus_cloud.jpg/1024px-Cumulus_cloud.jpg" alt="Flowers">
+      <p style="overflow: hidden;">Curabitur ac dui vestibulum, tincidunt ligula vitae, congue eros. Praesent luctus consequat tortor, sit amet iaculis ante fermentum id. In rutrum a tortor quis rutrum. Duis vestibulum aliquet lorem. Sed sit amet orci hendrerit, pellentesque nisi eu, luctus massa. Ut malesuada ex sed ipsum auctor, sit amet aliquet lectus finibus. Donec odio magna, tristique in placerat sed, aliquam in augue. Aenean eu dignissim mi, interdum imperdiet eros.
+        Am ultrices diam vitae turpis ultrices, sed rhoncus tellus convallis.</p>
+    </div>
+    <div id="d3" style="background-color: slategrey; padding: 10px;">
+      <p>Curabitur vitae leo non augue sagittis euismod eget quis leo. Aliquam mattis vitae augue sed tincidunt. Maecenas pellentesque dignissim lacus, in aliquet libero interdum eget. Pellentesque pharetra aliquet scelerisque. Morbi id mauris quis magna lacinia pellentesque vitae eu neque. Morbi ac lorem ut mauris tempor dictum. Aliquam lacinia mollis lacus. Morbi id malesuada odio. Mauris pulvinar facilisis purus in euismod. Sed ante risus, condimentum vel tincidunt a, blandit nec leo.
+        urabitur eget aliquet elit, nec consequat urna. Maecenas convallis arcu non urna feugiat aliquam.</p>
+      <p>Suspendisse non eros at tellus varius semper. Mauris id ullamcorper turpis.</p>
+    </div>
+  </body>
+</html>
+
+
+
+

@@ -1,0 +1,17 @@
+
+#d1 {
+    border: 1px solid black;
+    padding: 11px;
+}
+#d2 img {
+    float: left;
+    margin-right: 14px;
+}
+#d2 p {
+    overflow: hidden;
+}
+#d3 {
+    background-color: slategrey;
+    padding: 10px;
+    margin: 10px;
+}
